@@ -1,0 +1,15 @@
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\bin\Debug\net7.0\tp8.exe
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\bin\Debug\net7.0\tp8.deps.json
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\bin\Debug\net7.0\tp8.runtimeconfig.json
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\bin\Debug\net7.0\tp8.dll
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\bin\Debug\net7.0\tp8.pdb
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.csproj.AssemblyReference.cache
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.AssemblyInfoInputs.cache
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.AssemblyInfo.cs
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.dll
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\refint\tp8.dll
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.pdb
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\tp8.genruntimeconfig.cache
+C:\Users\Miguel Veliz\Desktop\Repositorio\tl1_tp8_2023-VelizMiguelC\tp8\obj\Debug\net7.0\ref\tp8.dll
